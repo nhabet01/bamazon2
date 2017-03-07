@@ -1,0 +1,31 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "mysql and nodejs",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "console.table": "^0.8.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhabet01/Bamazon.git"
+  },
+  "keywords": [
+    "node",
+    "mysql"
+  ],
+  "author": "nahir habet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhabet01/Bamazon/issues"
+  },
+  "homepage": "https://github.com/nhabet01/Bamazon#readme"
+}
